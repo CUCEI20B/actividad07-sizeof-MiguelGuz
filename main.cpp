@@ -6,7 +6,6 @@ int main() {
     string cadena;
 
     cout<<"cadena: "<<endl;
-    cin>>cadena;
 
     getline(cin, cadena);
     if (cadena== "char"){
